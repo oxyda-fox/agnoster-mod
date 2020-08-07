@@ -46,9 +46,16 @@ curl https://raw.githubusercontent.com/oxyda-fox/agnoster-mod/master/agnoster-mo
 `ZSH_THEME="agnoster"` to `ZSH_THEME="moded"`
 - Fifth restart your termux app.
 
-#Screenshot
+# Screenshot
 
 ![screenshot](screenshot-1.jpg)
+
+# Troubleshooting
+
+If you have error with your name machine like this
+![error](screenshot-2.jpg)
+to resolve it, just type `export USER="yourname"` for example
+![resolved](screenshot-3.jpg)
 
 Thank's to
 ----
