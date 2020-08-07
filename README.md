@@ -15,26 +15,43 @@ EN :
 
 # Terms
 - You must install curl with this command
-```apt install curl```
+
+```
+apt install curl
+```
 
 - You must install required fonts with this command
-```curl https://github.com/oxyda-fox/agnoster-mod/raw/master/MesloLGS/MesloLGS%20NF%20Regular.ttf > .termux/fonts/MesloLGS/MesloLGS.ttf```
+```
+curl https://github.com/oxyda-fox/agnoster-mod/raw/master/MesloLGS/MesloLGS%20NF%20Regular.ttf > .termux/fonts/MesloLGS/MesloLGS.ttf
+```
 
 - You must install oh-my-zsh with this command
-```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
 
 # How To Install Theme
 
 - First you must have installed zsh/ohmyzsh and change the font to MesloLGS
 
 - Second you copy this command to your shell
-```curl https://raw.githubusercontent.com/oxyda-fox/agnoster-mod/master/agnoster-mod.zsh-theme > .oh-my-zsh/themes/moded.zsh-theme```
+```
+curl https://raw.githubusercontent.com/oxyda-fox/agnoster-mod/master/agnoster-mod.zsh-theme > .oh-my-zsh/themes/moded.zsh-theme
+```
 
 - Third open your .zshrc with your text editor, ex nano or vim
-```nano .zshrc``` or ```vim .zshrc```
+```
+nano .zshrc
+``` or ```
+vim .zshrc
+```
 
 - Fourth change or rewrite on
-```ZSH_THEME="agnoster"``` to ```ZSH_THEME="moded"```
+```
+ZSH_THEME="agnoster"
+``` to ```
+ZSH_THEME="moded"
+```
 - Fifth restart your termux app.
 
 
