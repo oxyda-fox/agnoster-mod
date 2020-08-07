@@ -14,18 +14,18 @@ EN :
 >**be installed on your Termux application.**
 
 # Terms
-- You must install curl with this command
+:alien: You must install curl with this command
 
 ```
 apt install curl
 ```
 
-- You must install required fonts with this command
+:alien: You must install required fonts with this command
 ```bash
 curl https://github.com/oxyda-fox/agnoster-mod/raw/master/MesloLGS/MesloLGS%20NF%20Regular.ttf > .termux/fonts/MesloLGS/MesloLGS.ttf
 ```
 
-- You must install oh-my-zsh with this command
+:alien: You must install oh-my-zsh with this command
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
