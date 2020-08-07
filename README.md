@@ -64,11 +64,6 @@ If you have an error like this
 ![error](screenshot-4.jpg)
 to resolve it, you can install font **MesloLGS**
 
-Thank's to
-----
-* Allah swt
-* 0xyD4ff0x a.k.a A55H0L3
-* W3LLFR13ND-TEAM
-* etc
+Modded by RissFadill a.k.a oxyda-fox
 
 ![GitHub watchers](https://img.shields.io/github/watchers/oxyda-fox/agnoster-mod?color=orange&label=Watched%20by&style=flat-square)    ![GitHub repo size](https://img.shields.io/github/repo-size/oxyda-fox/agnoster-mod?color=red&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/oxyda-fox/agnoster-mod?style=flat-square)
