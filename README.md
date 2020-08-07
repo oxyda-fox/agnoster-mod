@@ -1,5 +1,5 @@
 # Agnoster Mod
-
+![](https://avatars2.githubusercontent.com/u/29060648?s=400&u=c63f9800098262efa4c493bf11841eca89d60f92&v=4)
 ![codename](https://img.shields.io/badge/Codename-0xiD4ff0x-orange?style=for-the-badge&logo=python.svg)
 [![instagram](https://img.shields.io/badge/Instagram-@risnfd-ff69b4?style=plastic&logo=instagram.svg)](https://instagram.com/risnfd) [![facebook](https://img.shields.io/badge/Facebook-SDrisna-blue?style=plastic&logo=facebook.svg)](https://facebook.com/exmorty99)
 
