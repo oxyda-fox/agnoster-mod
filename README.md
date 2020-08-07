@@ -32,19 +32,19 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 # How To Install Theme
 
-- First you must have installed zsh/ohmyzsh and change the font to MesloLGS
+:star2: First you must have installed zsh/ohmyzsh and change the font to MesloLGS
 
-- Second you copy this command to your shell
+:star2: Second you copy this command to your shell
 ```bash
 curl https://raw.githubusercontent.com/oxyda-fox/agnoster-mod/master/agnoster-mod.zsh-theme > .oh-my-zsh/themes/moded.zsh-theme
 ```
 
-- Third open your .zshrc with your text editor, ex nano or vim
+:star2: Third open your .zshrc with your text editor, ex nano or vim
 `nano .zshrc` or `vim .zshrc`
 
-- Fourth change or rewrite on
+:star2: Fourth change or rewrite on
 `ZSH_THEME="agnoster"` to `ZSH_THEME="moded"`
-- Fifth restart your termux app.
+:star2: Fifth restart your termux app.
 
 # Screenshot
 
