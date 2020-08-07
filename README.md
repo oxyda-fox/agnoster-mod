@@ -40,18 +40,10 @@ curl https://raw.githubusercontent.com/oxyda-fox/agnoster-mod/master/agnoster-mo
 ```
 
 - Third open your .zshrc with your text editor, ex nano or vim
-```
-nano .zshrc
-``` or ```
-vim .zshrc
-```
+`nano .zshrc` or `vim .zshrc`
 
 - Fourth change or rewrite on
-```
-ZSH_THEME="agnoster"
-``` to ```
-ZSH_THEME="moded"
-```
+`ZSH_THEME="agnoster"` to `ZSH_THEME="moded"`
 - Fifth restart your termux app.
 
 
