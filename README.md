@@ -53,6 +53,7 @@ curl https://raw.githubusercontent.com/oxyda-fox/agnoster-mod/master/agnoster-mo
 # Troubleshooting
 
 1. **Username/machine name not showing**
+
 If you have an error with your name machine like this
 ![error](screenshot-2.jpg)
 to resolve it, just type
@@ -60,6 +61,7 @@ to resolve it, just type
 ![resolved](screenshot-3.jpg)
 
 2. **Icon not showing/error**
+
 If you have an error like this
 ![error](screenshot-4.jpg)
 to resolve it, you can install font **MesloLGS**
