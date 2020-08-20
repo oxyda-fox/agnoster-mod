@@ -44,6 +44,7 @@ curl https://raw.githubusercontent.com/oxyda-fox/agnoster-mod/master/agnoster-mo
 
 :star2: Fourth change or rewrite on
 `ZSH_THEME="agnoster"` to `ZSH_THEME="moded"`
+
 :star2: Fifth restart your termux app.
 
 # Screenshot
